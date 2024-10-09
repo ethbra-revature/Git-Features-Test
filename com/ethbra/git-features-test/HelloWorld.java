@@ -1,4 +1,4 @@
-package GitTest;
+package git-features-test;
 
 class GitTest{
 	
